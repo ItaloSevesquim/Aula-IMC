@@ -1,6 +1,7 @@
 *{
     margin: 10px;
     padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #caixas{
@@ -35,4 +36,8 @@
 
 #resp{
     font-weight: bold;
+}
+
+label{
+    font-size:x-large;
 }
