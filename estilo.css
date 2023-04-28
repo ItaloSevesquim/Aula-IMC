@@ -1,0 +1,38 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+#caixas{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+}
+
+#Peso, #Altura{
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 200px;
+}
+
+#btn_calcula{
+    padding: 10px;
+    
+    font-size: large;
+    width: 100px;
+}
+
+#IMC{
+    background: #900;
+    color: #FFF;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 300px;
+}
+
+#resp{
+    font-weight: bold;
+}
